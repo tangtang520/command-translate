@@ -1,6 +1,6 @@
 {
   "name": "tfy-translate",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "The command line translation",
   "main": "index.js",
   "keywords": [
@@ -16,7 +16,7 @@
     "yd": "bin/index.js"
   },
   "author": "tfy",
-  "repository": "git@github.com:Tate-fan/lyg.git",
+  "repository": "git@github.com:tangtang520/command-translate.git",
   "license": "ISC",
   "dependencies": {
     "cli-table2": "^0.2.0",
