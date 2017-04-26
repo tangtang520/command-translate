@@ -1,0 +1,29 @@
+{
+  "name": "tfy-translate",
+  "version": "0.0.2",
+  "description": "The command line translation",
+  "main": "index.js",
+  "keywords": [
+    "node.js",
+    "translation",
+    "translate",
+    "tool"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "yd": "bin/index.js"
+  },
+  "author": "tfy",
+  "repository": "git@github.com:Tate-fan/lyg.git",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "commander": "^2.9.0",
+    "superagent": "^3.5.2"
+  },
+  "engine":{
+    "node":">=4.0"
+  }
+}
